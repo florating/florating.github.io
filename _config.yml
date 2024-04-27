@@ -3,10 +3,13 @@ title: Flora Ting
 description: Bookmark this page to keep an eye on my project updates!
 remote_theme: pages-themes/minimal@v0.2.0
 
+url: https://florating.github.io
+baseurl:
+
 # Analytics and search engine verification
 google_analytics: G-76TMM70LHG
 google-site-verification: ko0g_fcjraullaeOuh6DbAiUxpUrf9_y0Zgzn0RGlg0
 
 # Jekyll settings
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme

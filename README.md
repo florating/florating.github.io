@@ -1,7 +1,7 @@
 Thanks for visiting! In the future, this website will feature my resume, projects, and possibly even a personal blog!
 
 ## Projects
-### The Skincare Routine Helper
+### [The Skincare Routine Helper](https://github.com/florating/skincare-routine-helper/)
 ![skincare-routine-helper](https://github.com/florating/skincare-routine-helper/raw/main/static/img/user_profile.png)
 
 This capstone project was completed in November 2021 over the course of 4 weeks. I independently created this full stack web app from the ground up while attending [Hackbright Academy](https://hackbrightacademy.com/)'s full-time software engineering bootcamp course.
